@@ -13,9 +13,8 @@
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/user-attachments/assets/9ddb5e4e-a033-40a6-99bb-ec5aee3651f1" width = 250px></picture>
 <br>
 - :school: I am a 4th cycle student at [Software Development](https://www.senati.edu.pe/).
 - :coffee: I am specializing in `JAVA`.
